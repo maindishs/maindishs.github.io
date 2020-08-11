@@ -1,14 +1,14 @@
-title:              Clean Blog
+title:              One More Step
 email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+description:        쌓아가는 공부 
+author:             me
+baseurl:            ""
+url:                "https://maindishs.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    maindishs
+facebook_username:  
 instagram_username:  
 linkedin_username:
 
